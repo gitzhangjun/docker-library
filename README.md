@@ -1,2 +1,0 @@
-# docker-library
-docker-library
